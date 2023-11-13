@@ -32,30 +32,28 @@ Tor to nie tylko trasa, to święte miejsce, gdzie kierowcy piszą kolejne rozdz
 
 
 
-.. _rozdzial_1:
+.. _rozdzial_2:
 
 ========
-Rozdzial 1
+Rozdział 2
 ========
 
 Wprowadzenie
 ------------
 
-W swietle reflektorow rozgwiazdzonego nieba nad torami Formuly 1, bolidy czekaja na start.
+W kuluarach pit stopów ukrywa się esencja wyścigów. 
 
-Podrozdzial 1.1: Wyscig Ostrzy
+Podrozdział 1.1: PitStop-Magia Precyzji 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Dzwiek silnikow przeplata sie z napieciem w powietrzu. 
-Kierowcy, z oczami skierowanymi w dal, wiedza, ze przed nimi 300 km nieprzewidywalnych zakretow.
+Precyzyjne ruchy zespołu, huk pneumatycznych kluczy – każda sekunda ma znaczenie. 
 
-Podrozdzial 1.2: predkosc
+Podrozdział 1.2: Dlaczego jest tak wazny
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-To nie tylko wyscig o predkosc, ale rowniez o precyzje i takt. 
-Kazdy okrazenie toru to taniec z fizyka i rywalami. 
+Tam, gdzie technologia spotyka się z człowiekiem, decyduje się losy rywalizacji. 
 
 Podsumowanie
 ------------
 
-Formula 1 to nie tylko sport, to sztuka kontrolowania potegnych maszyn, gdzie zwyciestwo wymaga rownowagi miedzy instynktem a technologia.
+Wymiana opon to choreografia, a niesprawność bolidu może zrujnować marzenia o podium.
