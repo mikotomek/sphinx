@@ -3,8 +3,7 @@
 ## Opis
 
 Projekt przedstawia 3 rozdziały o formule 1 napisane przy użyciu pakietu sphinx, wygenerowane do pdf. 
-W repozytorium podaje tylko folder source z plikami z rozszerzeniem .rst.
 
-> [!IMPORTANT]
-> Plik działa na stan 27.11.23 .
+> [!NOTE]
+> W repozytorium znajduje się tylko folder source z plikami .rst oraz plik .txt z samym tekstem ktory zostal uzyty do pracy.
 
