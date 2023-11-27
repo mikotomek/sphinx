@@ -1,12 +1,7 @@
-# Projekt XYZ
+#  Redagowanie dokumentów przy użyciu pakietu Sphinx oraz obsługa git-a
 
 ## Opis
 
-Ten projekt jest poświęcony...
+Projekt przedstawia 3 rozdziały o formule 1 napisane przy użyciu pakietu sphinx, wygenerowane do pdf. 
 
-## Instalacja
 
-Aby zainstalować projekt, wykonaj poniższe kroki:
-
-```bash
-pip install -r requirements.txt
