@@ -1,3 +1,12 @@
-# sphinx
-CLAAP01 Redagowanie dokumentów przy użyciu pakietu Sphinx oraz obsługa git-a
-W repozytorium znajduje sie struktura plików podzielona na rozdzialy opracowana przy uzyciu sphinx.
+# Projekt XYZ
+
+## Opis
+
+Ten projekt jest poświęcony...
+
+## Instalacja
+
+Aby zainstalować projekt, wykonaj poniższe kroki:
+
+```bash
+pip install -r requirements.txt
