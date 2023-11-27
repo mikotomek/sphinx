@@ -1,25 +1,14 @@
-@startuml
+Rozpocznij od kartingu:
+Karting jest często uważany za szkołę dla młodych kierowców wyścigowych. To dostępna forma motorsportu, która pozwala na rozwijanie umiejętności jeździeckich od najmłodszych lat. Wielu kierowców Formuły 1 zaczęło od kartingu, tak więc to doskonały punkt wyjścia.
 
-:Rozpocznij wyścig;
-if (Czy sesja kwalifikacyjna?) then (tak)
-  :Przeprowadź kwalifikacje;
-  if (Kierowcy gotowi?) then (tak)
-    :Rozpocznij wyścig;
-  else (nie)
-    :Poczekaj na gotowość kierowców;
-  endif
-else (nie)
-  :Poczekaj na sesję kwalifikacyjną;
-endif
+Uczestnictwo w niższych seriach wyścigowych:
+Po osiągnięciu sukcesów w kartingu, ważne jest przejście do wyższych klas wyścigowych. Wiele krajów ma różne serie wyścigowe, takie jak Formuła 4, Formuła 3, czy Formuła 2, które stanowią kolejne etapy kariery.
 
-:Wyścig;
+Zdobywanie licencji i doświadczenia:
+Konieczne jest uzyskanie wymaganych licencji wyścigowych, co wymaga odpowiedniego doświadczenia w niższych seriach. W międzyczasie warto rozwijać swoje umiejętności jeździeckie, zdobywać doświadczenie na różnych torach i doskonalić technikę.
 
-if (Czy wyścig zakończony?) then (tak)
-  :Przejrzyj wyniki;
-else (nie)
-  :Kontynuuj wyścig;
-endif
+Zdobycie wsparcia finansowego:
+Kierowanie zespołu Formuły 1 wymaga znacznych środków finansowych. Zdolność do przyciągania sponsorów lub wsparcia finansowego jest kluczowa. Niektórzy kierowcy uzyskują wsparcie od akademii młodych talentów zespołów Formuły 1.
 
-:Zakończ wyścig;
-
-@enduml
+Zwycięstwa i wyróżnienia:
+Aby przyciągnąć uwagę zespołów Formuły 1, konieczne jest odnoszenie sukcesów w wyższych seriach wyścigowych. Zwycięstwa, szybkie okrążenia i ogólne wyróżnienia przyciągają uwagę decydentów w świecie Formuły 1.
