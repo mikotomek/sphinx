@@ -1,59 +1,25 @@
-Rozdział 1: Wyścig Ostrzy
+@startuml
 
-W świetle reflektorów rozgwieżdżonego nieba nad torami Formuły 1, bolidy czekają na start.
-Dźwięk silników przeplata się z napięciem w powietrzu. 
-Kierowcy, z oczami skierowanymi w dal, wiedzą, że przed nimi 300 km nieprzewidywalnych zakrętów. 
-To nie tylko wyścig o prędkość, ale również o precyzję i takt. 
-Każdy okrążający tor to taniec z fizyką i rywalami. 
-Formuła 1 to nie tylko sport, to sztuka kontrolowania potężnych maszyn, gdzie zwycięstwo wymaga równowagi między instynktem a technologią.
+:Rozpocznij wyścig;
+if (Czy sesja kwalifikacyjna?) then (tak)
+  :Przeprowadź kwalifikacje;
+  if (Kierowcy gotowi?) then (tak)
+    :Rozpocznij wyścig;
+  else (nie)
+    :Poczekaj na gotowość kierowców;
+  endif
+else (nie)
+  :Poczekaj na sesję kwalifikacyjną;
+endif
 
-Rozdział 2: Mechanizmy Prędkości
+:Wyścig;
 
-W kuluarach pit stopów ukrywa się esencja wyścigów. 
-Precyzyjne ruchy zespołu, huk pneumatycznych kluczy – każda sekunda ma znaczenie. 
-Tam, gdzie technologia spotyka się z człowiekiem, decyduje się losy rywalizacji. 
-Wymiana opon to choreografia, a niesprawność bolidu może zrujnować marzenia o podium.
+if (Czy wyścig zakończony?) then (tak)
+  :Przejrzyj wyniki;
+else (nie)
+  :Kontynuuj wyścig;
+endif
 
-Rozdział 3: Dusza Toru
+:Zakończ wyścig;
 
-W dźwięku silników tkwi dusza toru. 
-Każdy z nich ma swój charakter, opowiada historię. 
-Monako, legendarny zakręt Eau Rouge w Spa, czy zakręcone ulice Monzy – to więcej niż tylko asfalt. 
-To świadectwo wytrwałości, triumfów i upadków. 
-Tor to nie tylko trasa, to święte miejsce, gdzie kierowcy piszą kolejne rozdziały legendy Formuły 1.
-.
-.
-.
-.
-.
-.
-.
-.
-
-
-
-.. _rozdzial_2:
-
-========
-Rozdział 2
-========
-
-Wprowadzenie
-------------
-
-W kuluarach pit stopów ukrywa się esencja wyścigów. 
-
-Podrozdział 1.1: PitStop-Magia Precyzji 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Precyzyjne ruchy zespołu, huk pneumatycznych kluczy – każda sekunda ma znaczenie. 
-
-Podrozdział 1.2: Dlaczego jest tak wazny
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Tam, gdzie technologia spotyka się z człowiekiem, decyduje się losy rywalizacji. 
-
-Podsumowanie
-------------
-
-Wymiana opon to choreografia, a niesprawność bolidu może zrujnować marzenia o podium.
+@enduml
