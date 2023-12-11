@@ -12,5 +12,5 @@ Projekt przedstawia 3 rozdziały o formule 1 napisane przy użyciu pakietu sphin
 1. index.rst  
 
 > [!NOTE]
-> W repozytorium znajduje się tylko folder source z plikami .rst oraz plik .txt z samym tekstem ktory zostal użyty do pracy.
+> W repozytorium znajduje się tylko folder source z plikami .rst oraz plik .pdf z wygenerowanym juz dokumentem do sprawdzenia finalnej wersji. 
 
